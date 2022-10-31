@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'vag-rounded-std-black';
+  src: url('https://www.dafontfree.net/data/50/v/28131/VAGRoundedStd-Black.otf');
+}
+
+* {
+  font-family: 'vag-rounded-std-black';
+}
